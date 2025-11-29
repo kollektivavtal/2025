@@ -1,5 +1,10 @@
 # Kollektivavtalsarkivet 2025
 
+## Almega Apoteksföretagen
+
+- https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/apotek/
+- https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/apotek/?&block=22142&mode=Index&resourcename=3.%20Kollektivavtal%20(allm%C3%A4nna%20anst%C3%A4llningsvillkor%20inkl.%20l%C3%B6neavtal)%20-%20Avtal%202025%20-%20Apoteksf%C3%B6retagen%2020250501%20-%2020270430.pdf
+
 ## Bemanningsavtalet (LO)
 
 - https://www.ifmetall.se/om-oss/vara-kollektivavtal/
@@ -52,6 +57,11 @@
 - https://www.ifmetall.se/om-oss/vara-kollektivavtal/
 - https://www.ifmetall.se/globalassets/avdelningar/forbundskontoret/resurser/dokument/kollektivavtal/kollektivavtal-2025-/img-avtalet-2025-2027.pdf
 
+## Järnvägsinfrastrukturavtalet
+
+- https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/almega-tagforetagen-jarnvagsinfrastruktur/
+- https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/almega-tagforetagen-jarnvagsinfrastruktur/?&block=22177&mode=Index&resourcename=3.%20Kollektivavtal%20-%20Avtal%202025%20-%20T%C3%A5gf%C3%B6retagen%20J%C3%A4rnv%C3%A4gsinfrastruktur%20-%2020250501%20-%2020270430.pdf
+
 ## Kemiska fabriker
 
 - https://www.ifmetall.se/om-oss/vara-kollektivavtal/
@@ -66,6 +76,13 @@
 
 - https://www.ifmetall.se/om-oss/vara-kollektivavtal/
 - https://www.ifmetall.se/globalassets/avdelningar/forbundskontoret/resurser/dokument/kollektivavtal/kollektivavtal-2025-/oljeraffinaderier-2025-2027.pdf
+
+## RALS
+
+- https://www.arbetsgivarverket.se/avtal-och-skrifter/avtal/ramavtal-mellan-arbetsgivarverket-och-seko
+- https://www.arbetsgivarverket.se/globalassets/arbetsgivarverket/aktuellt/nyheter/2025/avtalsnyhet/rals-arbetsgivarverket-seko-2025-2027-och-ovriga-bilagor.pdf
+- https://www.arbetsgivarverket.se/avtal-och-skrifter/avtal/ramavtal-mellan-arbetsgivarverket-och-ofrspo
+- https://www.arbetsgivarverket.se/globalassets/arbetsgivarverket/aktuellt/nyheter/2025/avtalsnyhet/rals-arbetsgivarverket-ofr-s-p-o-2025-2027-och-ovriga-bilagor.pdf
 
 ## Samhall-LO
 
