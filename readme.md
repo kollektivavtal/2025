@@ -12,6 +12,11 @@
 - https://www.seko.se/stod-pa-jobbet/kollektivavtal/ovriga-avtal/
 - https://www.seko.se/4ada0e/siteassets/kollektivavtal/branschavtal/bemanningsavtalet/bemanningsavtalet_2025-05-01-2027-04-30.pdf
 
+## Blå avtalet
+
+- https://www.seko.se/stod-pa-jobbet/kollektivavtal/ovriga-avtal/
+- https://www.seko.se/4ad9b2/siteassets/kollektivavtal/branschavtal/blaa-avtalet/bla-avtalet_250710.pdf
+
 ## Buteljglasindustrin
 
 - https://www.ifmetall.se/om-oss/vara-kollektivavtal/
@@ -35,6 +40,16 @@
 
 - https://www.ifmetall.se/om-oss/vara-kollektivavtal/
 - https://www.ifmetall.se/globalassets/avdelningar/forbundskontoret/resurser/dokument/kollektivavtal/kollektivavtal-2025-/explosivamnesavtalet-2025-2027.pdf
+
+## Fastigheter Tjänstemannaavtal
+
+- https://www.seko.se/stod-pa-jobbet/kollektivavtal/ovriga-avtal/
+- https://www.seko.se/4ad8a0/siteassets/kollektivavtal/branschavtal/fastigheter/kollektivavtal-fastigheter-tjansteman-2025-2027.pdf
+
+## Färjeavtalet
+
+- https://www.seko.se/branscher/sjofolk/kollektivavtal/
+- https://www.seko.se/49dc83/siteassets/kollektivavtal/branschavtal/sjo/farjeavtalet_2025-2027_webb.pdf
 
 ## Gemensamma metall
 
@@ -102,11 +117,23 @@
 
 - https://www.ifmetall.se/om-oss/vara-kollektivavtal/
 - https://www.ifmetall.se/globalassets/avdelningar/forbundskontoret/resurser/dokument/kollektivavtal/kollektivavtal-2025-/samhall-lo-2025-2027.pdf
+- https://www.seko.se/stod-pa-jobbet/kollektivavtal/ovriga-avtal/
+- https://www.seko.se/4ac942/siteassets/kollektivavtal/branschavtal/samhall/bilagor-till-kollektivavtal-samhall-2025-2027.pdf
+
+## Serviceentreprenadavtalet
+
+- https://www.seko.se/stod-pa-jobbet/kollektivavtal/ovriga-avtal/
+- https://www.seko.se/4ad94c/siteassets/kollektivavtal/branschavtal/serviceentreprenad/serviceentreprenad-fastighets-seko-2025-2027.pdf
 
 ## Sinf-avtalet
 
 - https://www.ifmetall.se/om-oss/vara-kollektivavtal/
 - https://www.ifmetall.se/globalassets/avdelningar/forbundskontoret/resurser/dokument/kollektivavtal/kollektivavtal-2025-/Sinf-avtalet-2025-2027.pdf
+
+## Skärgårdstrafik
+
+- https://www.seko.se/branscher/sjofolk/kollektivavtal/
+- https://www.seko.se/4a93b6/siteassets/kollektivavtal/branschavtal/sjo/skargardstrafik-2025-2027_webb_final.pdf
 
 ## Spårtrafikavtalet
 
@@ -118,10 +145,20 @@
 - https://www.ifmetall.se/om-oss/vara-kollektivavtal/
 - https://www.ifmetall.se/globalassets/avdelningar/forbundskontoret/resurser/dokument/kollektivavtal/kollektivavtal-2025-/stal--och-metallindustrin-roda-avtalet.pdf
 
+## Storsjöavtalet
+
+- https://www.seko.se/branscher/sjofolk/kollektivavtal/
+- https://www.seko.se/49dc71/siteassets/kollektivavtal/branschavtal/sjo/storsjoavtalet_2025-2027_webb.pdf
+
 ## Svemek
 
 - https://www.ifmetall.se/om-oss/vara-kollektivavtal/
 - https://www.ifmetall.se/globalassets/avdelningar/forbundskontoret/resurser/dokument/kollektivavtal/kollektivavtal-2025-/svemek-2025-2027.pdf
+
+## Sällskapsdjursverksamheter
+
+- https://www.seko.se/branscher/civil/djurvard/kollektivavtal-djurvard/
+- https://www.seko.se/4ad5f0/siteassets/kollektivavtal/branschavtal/djurvard/kollektivavtal-sallskapsdjur-arbetare-2025-2027_webb.pdf
 
 ## Teknikavtalet
 
@@ -133,10 +170,23 @@
 - https://www.ifmetall.se/om-oss/vara-kollektivavtal/
 - https://www.ifmetall.se/globalassets/avdelningar/forbundskontoret/resurser/dokument/kollektivavtal/kollektivavtal-2025-/teko-avtalet-2025-2027.pdf
 
+## TechSverige Telekom
+
+- https://www.seko.se/branscher/tele/kollektivavtal/
+- https://www.seko.se/49e753/siteassets/kollektivavtal/branschavtal/telekom/telekomavtalet-med-omslag-2025-2027.pdf
+- https://www.seko.se/49e753/siteassets/kollektivavtal/branschavtal/telekom/loneavtal-telekom-seko-2025-2027.pdf
+
 ## Tvättavtalet
 
 - https://www.ifmetall.se/om-oss/vara-kollektivavtal/
 - https://www.ifmetall.se/globalassets/avdelningar/forbundskontoret/resurser/dokument/kollektivavtal/kollektivavtal-2025-/tvattavtalet-2025-2027.pdf
+
+## Väg- och Banavtalet
+
+- https://www.seko.se/branscher/vag-och-ban/kollektivavtal/
+- https://www.seko.se/4a5cef/siteassets/kollektivavtal/branschavtal/vag-och-ban/vag-och-banavtalet-2025-2027-utgava-1.pdf
+- https://www.seko.se/4ab4c8/siteassets/kollektivavtal/branschavtal/vag-och-ban/vag--och-banavtalet-2025-2027_fickavtal.pdf
+- https://www.seko.se/49e808/siteassets/kollektivavtal/branschavtal/vag-och-ban/sarskilda-regler-for-feriearbete-2025.pdf
 
 ## Återvinningsavtalet
 
