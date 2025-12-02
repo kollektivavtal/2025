@@ -38,6 +38,11 @@
 - https://sjobefalsforeningen.se/sites/default/files/2025-06/prambogseravtal-befalhavare-sbf-2025.pdf
 - https://sjobefalsforeningen.se/sites/default/files/2025-06/hamnbogseringsavtal-tekniskt-befal-sbf-2025.pdf
 
+## Bowlingavtalet
+
+- https://www.hrf.net/kollektivavtal/
+- https://www.hrf.net/app/uploads/2025/09/Kollektivavtal-Bowling-HRF-2025-2027-artnr-6585-2506.pdf
+
 ## Buteljglasindustrin
 
 - https://www.ifmetall.se/om-oss/vara-kollektivavtal/
@@ -52,6 +57,11 @@
 
 - https://www.hrf.net/kollektivavtal/
 - https://www.hrf.net/app/uploads/2025/05/Casinoavtalet_2025-2027.pdf
+
+## Cateringavtalet
+
+- https://www.hrf.net/kollektivavtal/
+- https://www.hrf.net/app/uploads/2025/08/Cateringavtalet_2025-2027-LK.pdf
 
 ## Djursjukvård
 
@@ -77,6 +87,11 @@
 - https://www.seko.se/stod-pa-jobbet/kollektivavtal/ovriga-avtal/
 - https://www.seko.se/4ad8a0/siteassets/kollektivavtal/branschavtal/fastigheter/kollektivavtal-fastigheter-tjansteman-2025-2027.pdf
 
+## Folkets Hus och Parker
+
+- https://www.hrf.net/kollektivavtal/
+- https://www.hrf.net/app/uploads/2025/05/Folkets-hus-och-parker-2025-2027.pdf
+
 ## Färjeavtalet
 
 - https://www.seko.se/branscher/sjofolk/kollektivavtal/
@@ -91,6 +106,12 @@
 
 - https://www.ifmetall.se/om-oss/vara-kollektivavtal/
 - https://www.ifmetall.se/globalassets/avdelningar/forbundskontoret/resurser/dokument/kollektivavtal/kollektivavtal-2025-/glasavtalet-2025-2027.pdf
+
+## Gröna Riksavtalet
+
+- https://www.hrf.net/kollektivavtal/
+- https://www.hrf.net/app/uploads/2025/05/Grona-riksen-2025-2027-1.pdf
+- https://www.hrf.net/app/uploads/2025/05/Turistsupplementet-2025-2027.pdf
 
 ## Gruventreprenadavtal
 
@@ -161,10 +182,20 @@
 - https://www.ifmetall.se/om-oss/vara-kollektivavtal/
 - https://www.ifmetall.se/globalassets/avdelningar/forbundskontoret/resurser/dokument/kollektivavtal/kollektivavtal-2025-/motorbranschavtalet-20252027.pdf
 
+## Nöjesavtalet
+
+- https://www.hrf.net/kollektivavtal/
+- https://www.hrf.net/app/uploads/2025/06/Nojesavtalet-2025-2027_A5.pdf
+
 ## Oljeraffinaderier
 
 - https://www.ifmetall.se/om-oss/vara-kollektivavtal/
 - https://www.ifmetall.se/globalassets/avdelningar/forbundskontoret/resurser/dokument/kollektivavtal/kollektivavtal-2025-/oljeraffinaderier-2025-2027.pdf
+
+## Ordningsvaktsavtalet
+
+- https://www.hrf.net/kollektivavtal/
+- https://www.hrf.net/app/uploads/2025/06/Ordningsvaktsavtalet-2025-2027.pdf
 
 ## RALS
 
@@ -173,12 +204,22 @@
 - https://www.arbetsgivarverket.se/avtal-och-skrifter/avtal/ramavtal-mellan-arbetsgivarverket-och-ofrspo
 - https://www.arbetsgivarverket.se/globalassets/arbetsgivarverket/aktuellt/nyheter/2025/avtalsnyhet/rals-arbetsgivarverket-ofr-s-p-o-2025-2027-och-ovriga-bilagor.pdf
 
+## Restaurang- och caféanställda
+
+- https://www.hrf.net/kollektivavtal/
+- https://www.hrf.net/app/uploads/2025/08/Svensk-Handel-HRF-Kollektivavtal-2025-2027.pdf
+
 ## Samhall-LO
 
 - https://www.ifmetall.se/om-oss/vara-kollektivavtal/
 - https://www.ifmetall.se/globalassets/avdelningar/forbundskontoret/resurser/dokument/kollektivavtal/kollektivavtal-2025-/samhall-lo-2025-2027.pdf
 - https://www.seko.se/stod-pa-jobbet/kollektivavtal/ovriga-avtal/
 - https://www.seko.se/4ac942/siteassets/kollektivavtal/branschavtal/samhall/bilagor-till-kollektivavtal-samhall-2025-2027.pdf
+
+## Serveringsavtalet
+
+- https://www.hrf.net/kollektivavtal/
+- https://www.hrf.net/app/uploads/2025/08/Serveringsavtalet-2025-2027.pdf
 
 ## Serviceentreprenadavtalet
 
