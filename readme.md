@@ -11,6 +11,8 @@
 - https://www.ifmetall.se/globalassets/avdelningar/forbundskontoret/resurser/dokument/kollektivavtal/kollektivavtal-2025-/bemanningsavtalet-2025-2027.pdf  
 - https://www.seko.se/stod-pa-jobbet/kollektivavtal/ovriga-avtal/
 - https://www.seko.se/4ada0e/siteassets/kollektivavtal/branschavtal/bemanningsavtalet/bemanningsavtalet_2025-05-01-2027-04-30.pdf
+- https://www.sef.se/stod-pa-jobbet/kollektivavtal/elektrikernas-kollektivavtal/
+- https://www.sef.se/49e606/siteassets/stod-pa-jobbet/kollektivavtal/kollektivavtal-2025-2027/bemanningsavtalet-20252027.pdf
 
 ## Blå avtalet
 
@@ -31,6 +33,11 @@
 
 - https://www.seko.se/branscher/civil/djurvard/kollektivavtal-djurvard/
 - https://www.seko.se/4ac7a2/siteassets/kollektivavtal/branschavtal/djurvard/djursjukvard_arbetare_2025-2027.pdf
+
+## Elektronikteknikeravtalet
+
+- https://www.sef.se/stod-pa-jobbet/kollektivavtal/elektrikernas-kollektivavtal/
+- https://www.sef.se/49e962/siteassets/stod-pa-jobbet/kollektivavtal/kollektivavtal-2025-2027/kollektivavtal_elektronikteknikeravtalet_2025-2027_tryck.pdf
 
 ## Energiavtalet
 
@@ -81,6 +88,11 @@
 - https://www.ifmetall.se/om-oss/vara-kollektivavtal/
 - https://www.ifmetall.se/globalassets/avdelningar/forbundskontoret/resurser/dokument/kollektivavtal/kollektivavtal-2025-/img-avtalet-2025-2027.pdf
 
+## Installationsavtalet
+
+- https://www.sef.se/stod-pa-jobbet/kollektivavtal/elektrikernas-kollektivavtal/
+- https://www.sef.se/49ebe6/siteassets/stod-pa-jobbet/kollektivavtal/kollektivavtal-2025-2027/installationsavtalet-2025-2027-digitalt.pdf
+
 ## Järnvägsinfrastrukturavtalet
 
 - https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/almega-tagforetagen-jarnvagsinfrastruktur/
@@ -95,6 +107,30 @@
 
 - https://www.seko.se/branscher/post/kollektivavtal/
 - https://www.seko.se/4ada49/siteassets/kollektivavtal/branschavtal/kommunikation/kollektivavtal-bransch-kommunikation-2025-2027.pdf
+
+## Kraftverksavtalet
+
+- https://www.sef.se/stod-pa-jobbet/kollektivavtal/elektrikernas-kollektivavtal/
+- https://www.sef.se/49eb0d/siteassets/stod-pa-jobbet/kollektivavtal/kollektivavtal-2025-2027/kraftverksavtalet_2025-2027_webb.pdf
+
+## Larm- och säkerhetsteknikavtalet
+
+- https://www.sef.se/stod-pa-jobbet/kollektivavtal/elektrikernas-kollektivavtal/
+- https://www.sef.se/49ea5b/siteassets/stod-pa-jobbet/kollektivavtal/kollektivavtal-2025-2027/larm-och-sakerhetsteknikavtalet_2025-2027_webb.pdf
+- https://www.sef.se/49ea00/siteassets/stod-pa-jobbet/kollektivavtal/kollektivavtal-2025-2027/tillaggsavtal_till_larm_och_sakerhetsteknikavtalet_2025-2027_webb.pdf
+
+## Manpoweravtalet
+
+- https://www.sef.se/stod-pa-jobbet/kollektivavtal/elektrikernas-kollektivavtal/
+- https://www.sef.se/4acc18/siteassets/stod-pa-jobbet/kollektivavtal/kollektivavtal-2023-2025/manpoweravtalet-2025-2027-webb.pdf
+
+## Massa- och Pappersavtalet
+
+- https://www.pappers.se/avdelning/29/avtal
+- https://www.pappers.se/sites/default/files/2025-09/kollektivavtal-pappers_obb.pdf
+- https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/massa--och-pappersindustrin/
+- https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/massa--och-pappersindustrin/?&block=54468&mode=Index&resourcename=2.%20Avtalssamling%20tj%C3%A4nstem%C3%A4n%20-%20Avtal%202025%20-%20%20Massa-%20och%20Pappersindustrin%20-%20250401.pdf
+- https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/massa--och-pappersindustrin/?&block=54468&mode=Index&resourcename=1.%20Allm%C3%A4nna%20anst%C3%A4llningsvillkor%20f%C3%B6r%20tj%C3%A4nstem%C3%A4n%20-%20Avtal%202025%20-%20Massa-%20och%20Pappersindustrin%20-%20250401.pdf
 
 ## Motorbranschavtalet
 
@@ -159,6 +195,11 @@
 
 - https://www.seko.se/branscher/civil/djurvard/kollektivavtal-djurvard/
 - https://www.seko.se/4ad5f0/siteassets/kollektivavtal/branschavtal/djurvard/kollektivavtal-sallskapsdjur-arbetare-2025-2027_webb.pdf
+
+## TKE-avtalet
+
+- https://www.sef.se/stod-pa-jobbet/kollektivavtal/elektrikernas-kollektivavtal/
+- https://www.sef.se/4a887e/siteassets/stod-pa-jobbet/kollektivavtal/kollektivavtal-2025-2027/tke-avtalet-2025-2027_webb.pdf
 
 ## Teknikavtalet
 
