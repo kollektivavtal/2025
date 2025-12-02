@@ -5,6 +5,18 @@
 - https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/apotek/
 - https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/apotek/?&block=22142&mode=Index&resourcename=3.%20Kollektivavtal%20(allm%C3%A4nna%20anst%C3%A4llningsvillkor%20inkl.%20l%C3%B6neavtal)%20-%20Avtal%202025%20-%20Apoteksf%C3%B6retagen%2020250501%20-%2020270430.pdf
 
+## Almega Medieföretagen
+
+- https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/medieforetagen/
+- https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/medieforetagen/?&block=22170&mode=Index&resourcename=3.%20Kollektivavtal%20-%20Avtal%202025%20-%20Medief%C3%B6retagen%20gr%C3%A5%20avtalet%20-%2020250501.pdf
+
+## Almega Spel och Internationella Kasinon Tjänstemannaavtal
+
+- https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/svenska-spel/
+- https://www.unionen.se/kollektivavtal/almega-tjansteforbunden-svenska-spel-tidigare-spel-och-internationella-kasinon
+- https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/svenska-spel/?&block=22174&mode=Index&resourcename=1.%20Avtalsf%C3%B6r%C3%A4ndringar%20-%20Avtal%202025%20-%20Spel%20och%20Internationella%20Kasinon%20-%2020250701.pdf
+- https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/svenska-spel/?&block=22174&mode=Index&resourcename=2.%20F%C3%B6rhandlingsprotokoll%20-%20Avtal%202025%20-%20Spel%20och%20Internationella%20Kasinon%20-%2020250701.pdf
+
 ## Bemanningsavtalet (LO)
 
 - https://www.ifmetall.se/om-oss/vara-kollektivavtal/
@@ -19,6 +31,13 @@
 - https://www.seko.se/stod-pa-jobbet/kollektivavtal/ovriga-avtal/
 - https://www.seko.se/4ad9b2/siteassets/kollektivavtal/branschavtal/blaa-avtalet/bla-avtalet_250710.pdf
 
+## Bogseravtalen
+
+- https://sjobefalsforeningen.se/avtal-lonebilagor/bogseravtalen
+- https://sjobefalsforeningen.se/sites/default/files/2025-06/hamnbogseravtal-nautiskt-befal-sbf-2025.pdf
+- https://sjobefalsforeningen.se/sites/default/files/2025-06/prambogseravtal-befalhavare-sbf-2025.pdf
+- https://sjobefalsforeningen.se/sites/default/files/2025-06/hamnbogseringsavtal-tekniskt-befal-sbf-2025.pdf
+
 ## Buteljglasindustrin
 
 - https://www.ifmetall.se/om-oss/vara-kollektivavtal/
@@ -28,6 +47,11 @@
 
 - https://www.ifmetall.se/om-oss/vara-kollektivavtal/
 - https://www.ifmetall.se/globalassets/avdelningar/forbundskontoret/resurser/dokument/kollektivavtal/kollektivavtal-2025-/byggnadsamnesindustrin-2025-2027.pdf
+
+## Casinoavtalet
+
+- https://www.hrf.net/kollektivavtal/
+- https://www.hrf.net/app/uploads/2025/05/Casinoavtalet_2025-2027.pdf
 
 ## Djursjukvård
 
