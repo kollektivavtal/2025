@@ -76,6 +76,11 @@
 - https://www.ifmetall.se/om-oss/vara-kollektivavtal/
 - https://www.ifmetall.se/globalassets/avdelningar/forbundskontoret/resurser/dokument/kollektivavtal/kollektivavtal-2025-/kemiska-fabriker-2025-2027.pdf
 
+## Kommunikation
+
+- https://www.seko.se/branscher/post/kollektivavtal/
+- https://www.seko.se/4ada49/siteassets/kollektivavtal/branschavtal/kommunikation/kollektivavtal-bransch-kommunikation-2025-2027.pdf
+
 ## Motorbranschavtalet
 
 - https://www.ifmetall.se/om-oss/vara-kollektivavtal/
