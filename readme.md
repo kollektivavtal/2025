@@ -22,6 +22,15 @@
 - https://www.ifmetall.se/om-oss/vara-kollektivavtal/
 - https://www.ifmetall.se/globalassets/avdelningar/forbundskontoret/resurser/dokument/kollektivavtal/kollektivavtal-2025-/byggnadsamnesindustrin-2025-2027.pdf
 
+## Djursjukvård
+
+- https://www.seko.se/branscher/civil/djurvard/kollektivavtal-djurvard/
+- https://www.seko.se/4ac7a2/siteassets/kollektivavtal/branschavtal/djurvard/djursjukvard_arbetare_2025-2027.pdf
+
+## Energiavtalet
+
+- https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/energiforetagen/
+
 ## Explosivämnesavtalet
 
 - https://www.ifmetall.se/om-oss/vara-kollektivavtal/
@@ -93,6 +102,11 @@
 
 - https://www.ifmetall.se/om-oss/vara-kollektivavtal/
 - https://www.ifmetall.se/globalassets/avdelningar/forbundskontoret/resurser/dokument/kollektivavtal/kollektivavtal-2025-/Sinf-avtalet-2025-2027.pdf
+
+## Spårtrafikavtalet
+
+- https://www.seko.se/branscher/trafik/kollektivavtal/
+- https://www.seko.se/4a5a10/siteassets/kollektivavtal/branschavtal/spartrafik/spartrafikavtalet_2025-2027.pdf
 
 ## Stål- och metallindustrin (Röda avtalet)
 
