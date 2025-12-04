@@ -17,6 +17,11 @@
 - https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/svenska-spel/?&block=22174&mode=Index&resourcename=1.%20Avtalsf%C3%B6r%C3%A4ndringar%20-%20Avtal%202025%20-%20Spel%20och%20Internationella%20Kasinon%20-%2020250701.pdf
 - https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/svenska-spel/?&block=22174&mode=Index&resourcename=2.%20F%C3%B6rhandlingsprotokoll%20-%20Avtal%202025%20-%20Spel%20och%20Internationella%20Kasinon%20-%2020250701.pdf
 
+## Apoteksavtalet.pdf
+
+- https://www.sverigesfarmaceuter.se/rad-och-stod/anstallning2/kollektivavtal/kollektivavtal-apotek/kollektivavtal-svensk-handel/
+- https://www.sverigesfarmaceuter.se/globalassets/2-dokument/2-rad-och-stod/anstallning/kollektivavtal/apotek/svensk-handel/apoteksavtalet-2025-2027.pdf
+
 ## Bemanningsavtalet (LO)
 
 - https://www.ifmetall.se/om-oss/vara-kollektivavtal/
