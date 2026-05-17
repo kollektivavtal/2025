@@ -202,6 +202,11 @@
 - https://www.hrf.net/kollektivavtal/
 - https://www.hrf.net/app/uploads/2025/06/Ordningsvaktsavtalet-2025-2027.pdf
 
+## Public service-avtalet
+
+- https://www.sjf.se/system/files/2025-05/Public%20service%20kollektivavtal%202025-2027.pdf
+- https://www.av.se/globalassets/filer/arbetsmiljoarbete-och-inspektioner/avtal-utstationering/almega-mediaforetagen-public-service-kollektivavtal-2025-2027.pdf
+
 ## RALS
 
 - https://www.arbetsgivarverket.se/avtal-och-skrifter/avtal/ramavtal-mellan-arbetsgivarverket-och-seko
