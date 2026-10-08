@@ -266,6 +266,12 @@
 - https://www.ifmetall.se/om-oss/vara-kollektivavtal/
 - https://www.ifmetall.se/globalassets/avdelningar/forbundskontoret/resurser/dokument/kollektivavtal/kollektivavtal-2025-/svemek-2025-2027.pdf
 
+## Systembolagsanställda
+
+- https://akademssr.se/dokument/svensk-handel-systembolaget-allmanna-villkor-2025-2027
+- https://akademssr.se/sites/default/files/files/Svensk%20Handel%2C%20Systembolaget%20%E2%80%93%20Allm%C3%A4nna%20villkor%202025-2027.pdf
+- https://www.unionen.se/kollektivavtal/svensk-handel-systembolagsanstallda
+
 ## Sällskapsdjursverksamheter
 
 - https://www.seko.se/branscher/civil/djurvard/kollektivavtal-djurvard/
