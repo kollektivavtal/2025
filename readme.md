@@ -206,6 +206,8 @@
 
 - https://www.sjf.se/system/files/2025-05/Public%20service%20kollektivavtal%202025-2027.pdf
 - https://www.av.se/globalassets/filer/arbetsmiljoarbete-och-inspektioner/avtal-utstationering/almega-mediaforetagen-public-service-kollektivavtal-2025-2027.pdf
+- https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/public_serviceforetag_medieforetagen/
+- https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/public_serviceforetag_medieforetagen/?&block=22172&mode=Index&resourcename=1.%20Kollektivavtal%20-%20Avtal%202025%20-%20Medief%C3%B6retagen%20Public%20service%20-%2020250401.pdf
 
 ## RALS
 
