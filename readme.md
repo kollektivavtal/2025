@@ -367,6 +367,16 @@
 - https://www.ifmetall.se/om-oss/vara-kollektivavtal/
 - https://www.ifmetall.se/globalassets/avdelningar/forbundskontoret/resurser/dokument/kollektivavtal/kollektivavtal-2025-/atervinningsavtalet-2025-2027.pdf
 
+## Visita Hängavtal
+
+- https://www.hrf.net/kollektivavtal/
+- https://www.hrf.net/app/uploads/2026/03/Visita-Grona-riks-Hangavtal-2025-2027.pdf
+
+## Almega Spel (HRF)
+
+- https://www.hrf.net/kollektivavtal/
+- https://www.hrf.net/app/uploads/2025/12/Kollektivavtal-Spel-HRF-2025-2026-art.nr-6525-2510.pdf
+
 ## Detaljhandelsavtalet (Installatörsföretagen)
 
 - https://www.in.se/globalassets/dokument/arbetsgivarguiden/publik/kollektivavtal/detaljhandelsavtalet-2025-2027-in.pdf
