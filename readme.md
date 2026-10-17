@@ -371,6 +371,7 @@
 
 - https://www.byggnads.se/stod-pa-jobbet/byggnads-kollektivavtal/ditt-kollektivavtal/
 - https://www.byggnads.se/49ec78/siteassets/kollektivavtal/byggavtalet-2025-digital-utgava-1.pdf
+- https://www.byggnads.se/48ce12/siteassets/kollektivavtal/the-construction-agreement-2025.pdf
 
 ## Visita Hängavtal
 
