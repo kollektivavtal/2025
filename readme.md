@@ -79,6 +79,12 @@
 - https://www.seko.se/branscher/civil/djurvard/kollektivavtal-djurvard/
 - https://www.seko.se/4ac7a2/siteassets/kollektivavtal/branschavtal/djurvard/djursjukvard_arbetare_2025-2027.pdf
 
+## Djurparksavtalet
+
+- https://www.grona.org/nyhetscenter/pressrum/2025/nytt-kollektivavtal-for-landets-djurparker/
+- https://www.hrf.net/kollektivavtal/
+- https://www.hrf.net/app/uploads/2025/12/Kollektivavtal_Djurparker.pdf
+
 ## Elektronikteknikeravtalet
 
 - https://www.sef.se/stod-pa-jobbet/kollektivavtal/elektrikernas-kollektivavtal/
