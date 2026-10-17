@@ -301,6 +301,12 @@
 - https://www.ifmetall.se/om-oss/vara-kollektivavtal/
 - https://www.ifmetall.se/globalassets/avdelningar/forbundskontoret/resurser/dokument/kollektivavtal/kollektivavtal-2025-/teknikavtalet-2025-2027.pdf
 
+## Maskinföraravtalet
+
+- https://www.seko.se/branscher/vag-och-ban/kollektivavtal/
+- https://www.me.se/foretagarservice/kollektivavtal/kollektivavtal-for-ME-medlemmar/maskinforaravtalet/
+- https://www.me.se/globalassets/medlemsstod-media/arbetsgivarstod/kollektivavtal/maskinforaravtalet/maskinforaravtalet-2025-2027-260417.pdf
+
 ## Tekoavtalet
 
 - https://www.ifmetall.se/om-oss/vara-kollektivavtal/
