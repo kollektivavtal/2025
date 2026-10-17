@@ -155,6 +155,15 @@
 - https://www.hrf.net/kollektivavtal/
 - https://www.hrf.net/app/uploads/2025/05/Folkets-hus-och-parker-2025-2027.pdf
 
+## Folksamgruppen
+
+- https://www.forena.se/fortroendevald/avtal-och-lagar/forenas-avtal/
+- https://forena.webshop.pgm.nu/media/forena/FolksamgruppenFremia-Forena2025-2026%20-Master.pdf
+
+## FTP-avtalet
+
+- https://www.fao.se/globalassets/kollektivavtal/ftp-avtalet-2025-2027.pdf
+
 ## Färjeavtalet
 
 - https://www.seko.se/branscher/sjofolk/kollektivavtal/
@@ -164,6 +173,11 @@
 
 - https://www.fastighets.se/kollektivavtal/vara-kollektivavtal/almega-serviceforetagen---fonsterputsningsavtalet/
 - https://www.fastighets.se/48ea29/contentassets/b3d1c8b132874f62ba61ac220b9c3858/kollektivavtal-fonsterputs-fastighetsanstalldas-forbund-2025-2027-18-002.pdf
+
+## Försäkringsbranschen
+
+- https://www.forena.se/fortroendevald/avtal-och-lagar/forenas-avtal/
+- https://forena.webshop.pgm.nu/media/forena/KollektivavtalFAOForena2025-2027.pdf
 
 ## Gemensamma metall
 
@@ -554,4 +568,3 @@
 - https://www.seko.se/4a5cef/siteassets/kollektivavtal/branschavtal/vag-och-ban/vag-och-banavtalet-2025-2027-utgava-1.pdf
 - https://www.seko.se/4ab4c8/siteassets/kollektivavtal/branschavtal/vag-och-ban/vag--och-banavtalet-2025-2027_fickavtal.pdf
 - https://www.seko.se/49e808/siteassets/kollektivavtal/branschavtal/vag-och-ban/sarskilda-regler-for-feriearbete-2025.pdf
-
