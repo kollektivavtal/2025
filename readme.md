@@ -306,6 +306,13 @@
 - https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/almega-tagforetagen-jarnvagsinfrastruktur/
 - https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/almega-tagforetagen-jarnvagsinfrastruktur/?&block=22177&mode=Index&resourcename=3.%20Kollektivavtal%20-%20Avtal%202025%20-%20T%C3%A5gf%C3%B6retagen%20J%C3%A4rnv%C3%A4gsinfrastruktur%20-%2020250501%20-%2020270430.pdf
 
+## Teknikinstallationsavtalet VVS & Kyl
+
+- https://www.in.se/kollektivavtal/teknikinstallationsavtalet-vvs-kyl/
+- https://www.in.se/globalassets/dokument/arbetsgivarguiden/publik/kollektivavtal/teknikinstallationsavtal-2025-2027.pdf
+- https://www.in.se/arbetsgivare/kollektivavtal/
+- https://www.byggnads.se/stod-pa-jobbet/byggnads-kollektivavtal/avtalsrorelsen2025/ditt-avtal/teknikinstallationsavtalet-vvs--kyl/
+
 ## Entreprenadmaskinavtalet
 
 - https://www.me.se/foretagarservice/kollektivavtal/kollektivavtal-for-ME-medlemmar/entreprenadmaskinavtalet/
@@ -338,6 +345,11 @@
 - https://www.seko.se/49e753/siteassets/kollektivavtal/branschavtal/telekom/telekomavtalet-med-omslag-2025-2027.pdf
 - https://www.seko.se/49e753/siteassets/kollektivavtal/branschavtal/telekom/loneavtal-telekom-seko-2025-2027.pdf
 
+## Telekomavtalet (Installatörsföretagen)
+
+- https://www.in.se/globalassets/dokument/arbetsgivarguiden/publik/kollektivavtal/telekomavtalet-2025-2027.pdf
+- https://www.in.se/arbetsgivare/kollektivavtal/
+
 ## Tvättavtalet
 
 - https://www.ifmetall.se/om-oss/vara-kollektivavtal/
@@ -354,4 +366,24 @@
 
 - https://www.ifmetall.se/om-oss/vara-kollektivavtal/
 - https://www.ifmetall.se/globalassets/avdelningar/forbundskontoret/resurser/dokument/kollektivavtal/kollektivavtal-2025-/atervinningsavtalet-2025-2027.pdf
+
+## Detaljhandelsavtalet (Installatörsföretagen)
+
+- https://www.in.se/globalassets/dokument/arbetsgivarguiden/publik/kollektivavtal/detaljhandelsavtalet-2025-2027-in.pdf
+- https://www.in.se/arbetsgivare/kollektivavtal/
+
+## Lageravtalet (Installatörsföretagen)
+
+- https://www.in.se/globalassets/dokument/arbetsgivarguiden/publik/kollektivavtal/lageravtalet-2025-2027.pdf
+- https://www.in.se/arbetsgivare/kollektivavtal/
+
+## Installatörsföretagen Tjänstemannaavtalet
+
+- https://www.in.se/globalassets/dokument/arbetsgivarguiden/publik/kollektivavtal/tjanstemannaavtalet-2025-2027.pdf
+- https://www.in.se/arbetsgivare/kollektivavtal/
+
+## Plåt- och ventilationsavtalet
+
+- https://www.in.se/globalassets/dokument/arbetsgivarguiden/publik/kollektivavtal/plat-och-ventilationsavtalet-2025-2027.pdf
+- https://www.in.se/arbetsgivare/kollektivavtal/
 
