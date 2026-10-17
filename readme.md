@@ -48,6 +48,12 @@
 - https://www.hrf.net/kollektivavtal/
 - https://www.hrf.net/app/uploads/2025/09/Kollektivavtal-Bowling-HRF-2025-2027-artnr-6585-2506.pdf
 
+## Bingoavtalet
+
+- https://www.almega.se/2025/12/nytt-bingoavtal-3/
+- https://www.hrf.net/kollektivavtal/
+- https://www.hrf.net/app/uploads/2026/01/Kollektivavtal-Bingo-2025-2027-TJF-HRF-2.pdf
+
 ## Buteljglasindustrin
 
 - https://www.ifmetall.se/om-oss/vara-kollektivavtal/
