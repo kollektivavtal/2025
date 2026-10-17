@@ -32,6 +32,11 @@
 - https://www.ifmetall.se/om-oss/vara-kollektivavtal/
 - https://www.ifmetall.se/globalassets/avdelningar/forbundskontoret/resurser/dokument/kollektivavtal/kollektivavtal-2025-/atervinningsavtalet-2025-2027.pdf
 
+## Banarbete vid travbanor
+
+- https://www.fastighets.se/kollektivavtal/vara-kollektivavtal/almega-tjansteforetagen---banarbete-vid-travbanor/
+- https://www.fastighets.se/4a8087/contentassets/9d469edba505400683756b2b63e9bfc4/kollektivavtal-banarbete-vid-travbanor-2025-2027-tjansteforetagen-fastighets-1.pdf
+
 ## Bemanningsavtalet (LO)
 
 - https://www.ifmetall.se/om-oss/vara-kollektivavtal/
@@ -140,6 +145,11 @@
 - https://www.seko.se/stod-pa-jobbet/kollektivavtal/ovriga-avtal/
 - https://www.seko.se/4ad8a0/siteassets/kollektivavtal/branschavtal/fastigheter/kollektivavtal-fastigheter-tjansteman-2025-2027.pdf
 
+## Fastighetsavtalet
+
+- https://www.fastighets.se/kollektivavtal/vara-kollektivavtal/almega-fastighetsarbetsgivare/
+- https://www.fastighets.se/49a08c/contentassets/3e30983e855d4780adef9611b4d62256/kollektivavtal-almega-fastigheter-2025-2027-fastighetsanstalldas-forbund-artnr-6554-2504.pdf
+
 ## Folkets Hus och Parker
 
 - https://www.hrf.net/kollektivavtal/
@@ -149,6 +159,11 @@
 
 - https://www.seko.se/branscher/sjofolk/kollektivavtal/
 - https://www.seko.se/49dc83/siteassets/kollektivavtal/branschavtal/sjo/farjeavtalet_2025-2027_webb.pdf
+
+## Fönsterputsavtalet
+
+- https://www.fastighets.se/kollektivavtal/vara-kollektivavtal/almega-serviceforetagen---fonsterputsningsavtalet/
+- https://www.fastighets.se/48ea29/contentassets/b3d1c8b132874f62ba61ac220b9c3858/kollektivavtal-fonsterputs-fastighetsanstalldas-forbund-2025-2027-18-002.pdf
 
 ## Gemensamma metall
 
@@ -237,6 +252,11 @@
 - https://www.sef.se/49ea5b/siteassets/stod-pa-jobbet/kollektivavtal/kollektivavtal-2025-2027/larm-och-sakerhetsteknikavtalet_2025-2027_webb.pdf
 - https://www.sef.se/49ea00/siteassets/stod-pa-jobbet/kollektivavtal/kollektivavtal-2025-2027/tillaggsavtal_till_larm_och_sakerhetsteknikavtalet_2025-2027_webb.pdf
 
+## Livsmedelsavtalet
+
+- https://www.livsmedelsforetagen.se/medlem/kollektivavtal/
+- https://www.livsmedelsforetagen.se/app/uploads/2025/05/livsmedelsavtalet-2025-ny.pdf
+
 ## Manpoweravtalet
 
 - https://www.sef.se/stod-pa-jobbet/kollektivavtal/elektrikernas-kollektivavtal/
@@ -310,6 +330,11 @@
 - https://www.hrf.net/kollektivavtal/
 - https://www.hrf.net/app/uploads/2025/08/Svensk-Handel-HRF-Kollektivavtal-2025-2027.pdf
 
+## Ridhusavtalet
+
+- https://www.fastighets.se/kollektivavtal/vara-kollektivavtal/almega-tjansteforetagen--ridhusforetag/
+- https://www.fastighets.se/4a807c/contentassets/5a258012dac24bb495e3420147af86b6/kollektivavtal-ridhusforetag-2025-2027-fastighets-tjansteforetagen.pdf
+
 ## Samhall-LO
 
 - https://www.ifmetall.se/om-oss/vara-kollektivavtal/
@@ -337,6 +362,11 @@
 - https://www.seko.se/branscher/sjofolk/kollektivavtal/
 - https://www.seko.se/4a93b6/siteassets/kollektivavtal/branschavtal/sjo/skargardstrafik-2025-2027_webb_final.pdf
 
+## Specialservice
+
+- https://www.fastighets.se/kollektivavtal/vara-kollektivavtal/almega-serviceforetagen---specialservice/
+- https://www.fastighets.se/499ee3/contentassets/98a40f498db1419188b8afc1ecad29e3/kollektivavtal-specialservice-2025-2027-fastighetsanstalldas-forbund-artnr-6043-2504.pdf
+
 ## Spårtrafikavtalet
 
 - https://www.seko.se/branscher/trafik/kollektivavtal/
@@ -346,6 +376,11 @@
 
 - https://www.seko.se/branscher/sjofolk/kollektivavtal/
 - https://www.seko.se/49dc71/siteassets/kollektivavtal/branschavtal/sjo/storsjoavtalet_2025-2027_webb.pdf
+
+## Städningsarbete i egen regi
+
+- https://www.fastighets.se/kollektivavtal/vara-kollektivavtal/almega-tjansteforetagen---stad-i-egen-regi/
+- https://www.fastighets.se/4add54/contentassets/2d6e28edb04a43d288558ad1da1a0a11/kollektivavtal-stad-i-egen-regi-2025-2027-tjf-vardforetagarna-fastighets-6004-2311.pdf
 
 ## Stål- och metallindustrin (Röda avtalet)
 
@@ -417,15 +452,30 @@
 - https://www.sef.se/stod-pa-jobbet/kollektivavtal/elektrikernas-kollektivavtal/
 - https://www.sef.se/4a887e/siteassets/stod-pa-jobbet/kollektivavtal/kollektivavtal-2025-2027/tke-avtalet-2025-2027_webb.pdf
 
+## Tobaksavtalet
+
+- https://www.livsmedelsforetagen.se/medlem/kollektivavtal/
+- https://www.livsmedelsforetagen.se/app/uploads/2025/06/tobaksavtalet-2025-2027.pdf
+
 ## Torvavtalet
 
 - https://www.me.se/foretagarservice/kollektivavtal/kollektivavtal-for-ME-medlemmar/torvavtalet/
 - https://www.me.se/globalassets/medlemsstod-media/arbetsgivarstod/kollektivavtal/torvavtalet/torvavtalet-forhandlingsprotokoll-juli-2025.pdf
 
+## Trav- och galoppavtalet
+
+- https://www.fastighets.se/kollektivavtal/vara-kollektivavtal/almega-tjansteforetagen---trav--och-galopptranare/
+- https://www.fastighets.se/4a8092/contentassets/5d49d192cd414b7fa7e03df6916c29e1/kollektivavtal-personal-hos-travtranare-2025-2027-tjansteftg-fastighets.pdf
+
 ## Tvättavtalet
 
 - https://www.ifmetall.se/om-oss/vara-kollektivavtal/
 - https://www.ifmetall.se/globalassets/avdelningar/forbundskontoret/resurser/dokument/kollektivavtal/kollektivavtal-2025-/tvattavtalet-2025-2027.pdf
+
+## Vin- och Spritindustriavtalet
+
+- https://www.livsmedelsforetagen.se/medlem/kollektivavtal/
+- https://www.livsmedelsforetagen.se/app/uploads/2025/06/vin-och-sprit-2025.pdf
 
 ## Visita Hängavtal
 
