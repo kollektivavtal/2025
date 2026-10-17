@@ -226,6 +226,12 @@
 - https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/almega-tagforetagen-jarnvagsinfrastruktur/
 - https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/almega-tagforetagen-jarnvagsinfrastruktur/?&block=22177&mode=Index&resourcename=3.%20Kollektivavtal%20-%20Avtal%202025%20-%20T%C3%A5gf%C3%B6retagen%20J%C3%A4rnv%C3%A4gsinfrastruktur%20-%2020250501%20-%2020270430.pdf
 
+## Kafferosterier och kryddfabriker
+
+- https://www.livsmedelsforetagen.se/medlem/kollektivavtal/
+- https://www.livsmedelsforetagen.se/kafferosterier-och-kryddfabriker-2025-2027-1/
+- https://www.livsmedelsforetagen.se/app/uploads/2025/06/kafferosterier-och-kryddfabriker-2025-2027-1.pdf
+
 ## Kemiska fabriker
 
 - https://www.ifmetall.se/om-oss/vara-kollektivavtal/
@@ -357,6 +363,16 @@
 - https://www.ifmetall.se/om-oss/vara-kollektivavtal/
 - https://www.ifmetall.se/globalassets/avdelningar/forbundskontoret/resurser/dokument/kollektivavtal/kollektivavtal-2025-/Sinf-avtalet-2025-2027.pdf
 
+## Skärgårdsavtalet – Strömmaavtalet
+
+- https://sjobefalsforeningen.se/avtal-lonebilagor/skargardsavtalen
+- https://sjobefalsforeningen.se/sites/default/files/2025-12/Kollektivavtal-Skargard-Stromma-Uto-mfl-20250101-20261230-TJF-SBF.pdf
+
+## Skärgårdsavtalet – Styrsöavtalet
+
+- https://sjobefalsforeningen.se/avtal-lonebilagor/skargardsavtalen
+- https://sjobefalsforeningen.se/sites/default/files/2025-12/Kollektivavtal-Skargard-Styrso-Koster-Karingso-20250101-20261231-TJF-SBF.pdf
+
 ## Skärgårdstrafik
 
 - https://www.seko.se/branscher/sjofolk/kollektivavtal/
@@ -367,6 +383,11 @@
 - https://www.fastighets.se/kollektivavtal/vara-kollektivavtal/almega-serviceforetagen---specialservice/
 - https://www.fastighets.se/499ee3/contentassets/98a40f498db1419188b8afc1ecad29e3/kollektivavtal-specialservice-2025-2027-fastighetsanstalldas-forbund-artnr-6043-2504.pdf
 
+## Spisbrödsavtalet
+
+- https://www.livs.se/arbetsplats-och-avtal/kollektivavtal/
+- https://www.livs.se/globalassets/livs.se/arbetsplats--och-avtalsfragor/kollektivavtal/spisbrod-2025.pdf
+
 ## Spårtrafikavtalet
 
 - https://www.seko.se/branscher/trafik/kollektivavtal/
@@ -376,6 +397,26 @@
 
 - https://www.seko.se/branscher/sjofolk/kollektivavtal/
 - https://www.seko.se/49dc71/siteassets/kollektivavtal/branschavtal/sjo/storsjoavtalet_2025-2027_webb.pdf
+
+## Storsjöavtalet – befälhavare
+
+- https://sjobefalsforeningen.se/avtal-lonebilagor/storsjoavtalet
+- https://sjobefalsforeningen.se/sites/default/files/2025-06/storsjoavtalet-befalhavare-sbf-2025.pdf
+
+## Storsjöavtalet – intendenturbefäl
+
+- https://sjobefalsforeningen.se/avtal-lonebilagor/storsjoavtalet
+- https://sjobefalsforeningen.se/sites/default/files/2025-06/storjoavtalet-intedenturbefal-sbf-2025.pdf
+
+## Storsjöavtalet – styrman och telegrafist
+
+- https://sjobefalsforeningen.se/avtal-lonebilagor/storsjoavtalet
+- https://sjobefalsforeningen.se/sites/default/files/2025-06/storsjoavtalet-styrman-och-telegrafist-sbf-2025.pdf
+
+## Storsjöavtalet – tekniskt befäl
+
+- https://sjobefalsforeningen.se/avtal-lonebilagor/storsjoavtalet
+- https://sjobefalsforeningen.se/sites/default/files/2025-06/storsjoavtalet-tekniskt-befal-sbf-2025.pdf
 
 ## Städningsarbete i egen regi
 
@@ -402,6 +443,11 @@
 
 - https://www.seko.se/branscher/civil/djurvard/kollektivavtal-djurvard/
 - https://www.seko.se/4ad5f0/siteassets/kollektivavtal/branschavtal/djurvard/kollektivavtal-sallskapsdjur-arbetare-2025-2027_webb.pdf
+
+## Sötvaruavtalet
+
+- https://www.livs.se/arbetsplats-och-avtal/kollektivavtal/
+- https://www.livs.se/globalassets/livs.se/arbetsplats--och-avtalsfragor/kollektivavtal/sotvaruindustri-2025.pdf
 
 ## TechSverige Telekom
 
@@ -442,10 +488,25 @@
 - https://www.sjf.se/vara-kollektivavtal/tidskriftsavtal
 - https://www.sjf.se/system/files/2025-07/Tidskrifter%20kollektivavtal%202025-2027.pdf
 
+## Tjänstemannaavtal Träindustri
+
+- https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/tmf_tra_och_mobelforetagen/
+- https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/tmf_tra_och_mobelforetagen/?&block=22169&mode=Index&resourcename=1.%20Tj%C3%A4nstemannaavtal%20Tr%C3%A4industri%202025%20-%202027.pdf
+
 ## Tjänstemannaavtalet Byggföretagen
 
 - https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/byggforetagen/
 - https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/byggforetagen/?&block=22154&mode=Index&resourcename=1.%20Tj%C3%A4nstemannaavtalet%20-%20Byggf%C3%B6retagen%202025%20-%202027.pdf
+
+## Tjänstemannaavtalet grafisk industri
+
+- https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/grafiska_foretagen/
+- https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/grafiska_foretagen/?&block=22167&mode=Index&resourcename=1.%20Tj%C3%A4nstemannaavtalet%20f%C3%B6r%20grafisk%20industri%202025%20-%202027.pdf
+
+## Tjänstemän inom näringslivet
+
+- https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/fremia-tjansteman-inom-naringslivet-tin/
+- https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/fremia-tjansteman-inom-naringslivet-tin/?&block=22187&mode=Index&resourcename=3.%20Kollektivavtal%20-%20Avtal%202025%20-%20Tj%C3%A4nstem%C3%A4n%20inom%20n%C3%A4ringslivet%20-%2020250401%20-%2020270331.pdf
 
 ## TKE-avtalet
 
@@ -466,6 +527,11 @@
 
 - https://www.fastighets.se/kollektivavtal/vara-kollektivavtal/almega-tjansteforetagen---trav--och-galopptranare/
 - https://www.fastighets.se/4a8092/contentassets/5d49d192cd414b7fa7e03df6916c29e1/kollektivavtal-personal-hos-travtranare-2025-2027-tjansteftg-fastighets.pdf
+
+## Tunnbrödsavtalet
+
+- https://www.livs.se/arbetsplats-och-avtal/kollektivavtal/
+- https://www.livs.se/globalassets/livs.se/arbetsplats--och-avtalsfragor/kollektivavtal/tunnbrod-2025.pdf
 
 ## Tvättavtalet
 
