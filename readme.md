@@ -195,6 +195,8 @@
 
 - https://www.forena.se/fortroendevald/avtal-och-lagar/forenas-avtal/
 - https://forena.webshop.pgm.nu/media/forena/KollektivavtalFAOForena2025-2027.pdf
+- https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/forsakringsbranschen/
+- https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/forsakringsbranschen/?&block=22191&mode=Index&resourcename=3.%20Kollektivavtal%20-%20Avtal%202025%20-%20F%C3%B6rs%C3%A4kringsbranschens%20arbetsgivareorganisation%20FAO%20-%2020250401%20-%2020270331.pdf
 
 ## Gemensamma metall
 
