@@ -301,6 +301,11 @@
 - https://www.ifmetall.se/om-oss/vara-kollektivavtal/
 - https://www.ifmetall.se/globalassets/avdelningar/forbundskontoret/resurser/dokument/kollektivavtal/kollektivavtal-2025-/teknikavtalet-2025-2027.pdf
 
+## Järnvägsinfrastrukturavtalet
+
+- https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/almega-tagforetagen-jarnvagsinfrastruktur/
+- https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/almega-tagforetagen-jarnvagsinfrastruktur/?&block=22177&mode=Index&resourcename=3.%20Kollektivavtal%20-%20Avtal%202025%20-%20T%C3%A5gf%C3%B6retagen%20J%C3%A4rnv%C3%A4gsinfrastruktur%20-%2020250501%20-%2020270430.pdf
+
 ## Maskinföraravtalet
 
 - https://www.seko.se/branscher/vag-och-ban/kollektivavtal/
