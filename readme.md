@@ -464,6 +464,15 @@
 - https://www.ifmetall.se/om-oss/vara-kollektivavtal/
 - https://www.ifmetall.se/globalassets/avdelningar/forbundskontoret/resurser/dokument/kollektivavtal/kollektivavtal-2025-/svemek-2025-2027.pdf
 
+## Svenska Kyrkan
+
+- https://www.skao.se/foer-arbetsgivare/kollektivavtal-2025/
+- https://www.skao.se/media/iddkx44a/svenska-kyrkans-ab-25_tjaenstemaen_giltig_from_1maj2026.pdf
+- https://www.skao.se/media/3mojjuhu/svenska-kyrkans-ab-25_kommunalsavtalsomraade_giltig_from_1maj2026.pdf
+- https://www.skao.se/media/df4l3po3/bilaga-1-svenska-kyrkans-loeneavtal-25_medarbetaretjaenstemaen.pdf
+- https://www.skao.se/media/3ffhyyhf/bilaga-1-svenska-kyrkans-loeneaval-25_medarbetarekommunalsavtalsomraade.pdf
+- https://www.skao.se/media/kxqncybq/skogsavtalet-avtal-25.pdf
+
 ## Systembolagsanställda
 
 - https://akademssr.se/dokument/svensk-handel-systembolaget-allmanna-villkor-2025-2027
