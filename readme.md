@@ -306,6 +306,11 @@
 - https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/almega-tagforetagen-jarnvagsinfrastruktur/
 - https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/almega-tagforetagen-jarnvagsinfrastruktur/?&block=22177&mode=Index&resourcename=3.%20Kollektivavtal%20-%20Avtal%202025%20-%20T%C3%A5gf%C3%B6retagen%20J%C3%A4rnv%C3%A4gsinfrastruktur%20-%2020250501%20-%2020270430.pdf
 
+## Entreprenadmaskinavtalet
+
+- https://www.me.se/foretagarservice/kollektivavtal/kollektivavtal-for-ME-medlemmar/entreprenadmaskinavtalet/
+- https://www.me.se/globalassets/medlemsstod-media/arbetsgivarstod/kollektivavtal/entreprenadmaskinavtalet/entreprenadmaskinavtalet-2025-2027-september-2025.pdf
+
 ## Maskinföraravtalet
 
 - https://www.seko.se/branscher/vag-och-ban/kollektivavtal/
