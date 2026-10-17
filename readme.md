@@ -10,6 +10,11 @@
 - https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/medieforetagen/
 - https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/medieforetagen/?&block=22170&mode=Index&resourcename=3.%20Kollektivavtal%20-%20Avtal%202025%20-%20Medief%C3%B6retagen%20gr%C3%A5%20avtalet%20-%2020250501.pdf
 
+## Almega Spel (HRF)
+
+- https://www.hrf.net/kollektivavtal/
+- https://www.hrf.net/app/uploads/2025/12/Kollektivavtal-Spel-HRF-2025-2026-art.nr-6525-2510.pdf
+
 ## Almega Spel och Internationella Kasinon Tjänstemannaavtal
 
 - https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/svenska-spel/
@@ -22,6 +27,11 @@
 - https://www.sverigesfarmaceuter.se/rad-och-stod/anstallning2/kollektivavtal/kollektivavtal-apotek/kollektivavtal-svensk-handel/
 - https://www.sverigesfarmaceuter.se/globalassets/2-dokument/2-rad-och-stod/anstallning/kollektivavtal/apotek/svensk-handel/apoteksavtalet-2025-2027.pdf
 
+## Återvinningsavtalet
+
+- https://www.ifmetall.se/om-oss/vara-kollektivavtal/
+- https://www.ifmetall.se/globalassets/avdelningar/forbundskontoret/resurser/dokument/kollektivavtal/kollektivavtal-2025-/atervinningsavtalet-2025-2027.pdf
+
 ## Bemanningsavtalet (LO)
 
 - https://www.ifmetall.se/om-oss/vara-kollektivavtal/
@@ -30,6 +40,12 @@
 - https://www.seko.se/4ada0e/siteassets/kollektivavtal/branschavtal/bemanningsavtalet/bemanningsavtalet_2025-05-01-2027-04-30.pdf
 - https://www.sef.se/stod-pa-jobbet/kollektivavtal/elektrikernas-kollektivavtal/
 - https://www.sef.se/49e606/siteassets/stod-pa-jobbet/kollektivavtal/kollektivavtal-2025-2027/bemanningsavtalet-20252027.pdf
+
+## Bingoavtalet
+
+- https://www.almega.se/2025/12/nytt-bingoavtal-3/
+- https://www.hrf.net/kollektivavtal/
+- https://www.hrf.net/app/uploads/2026/01/Kollektivavtal-Bingo-2025-2027-TJF-HRF-2.pdf
 
 ## Blå avtalet
 
@@ -48,16 +64,16 @@
 - https://www.hrf.net/kollektivavtal/
 - https://www.hrf.net/app/uploads/2025/09/Kollektivavtal-Bowling-HRF-2025-2027-artnr-6585-2506.pdf
 
-## Bingoavtalet
-
-- https://www.almega.se/2025/12/nytt-bingoavtal-3/
-- https://www.hrf.net/kollektivavtal/
-- https://www.hrf.net/app/uploads/2026/01/Kollektivavtal-Bingo-2025-2027-TJF-HRF-2.pdf
-
 ## Buteljglasindustrin
 
 - https://www.ifmetall.se/om-oss/vara-kollektivavtal/
 - https://www.ifmetall.se/globalassets/avdelningar/forbundskontoret/resurser/dokument/kollektivavtal/kollektivavtal-2025-/buteljglasindustrin-2025-2027.pdf
+
+## Byggavtalet
+
+- https://www.byggnads.se/stod-pa-jobbet/byggnads-kollektivavtal/ditt-kollektivavtal/
+- https://www.byggnads.se/49ec78/siteassets/kollektivavtal/byggavtalet-2025-digital-utgava-1.pdf
+- https://www.byggnads.se/48ce12/siteassets/kollektivavtal/the-construction-agreement-2025.pdf
 
 ## Byggnadsämnesindustrin
 
@@ -74,16 +90,26 @@
 - https://www.hrf.net/kollektivavtal/
 - https://www.hrf.net/app/uploads/2025/08/Cateringavtalet_2025-2027-LK.pdf
 
-## Djursjukvård
+## Dagspressavtalet
 
-- https://www.seko.se/branscher/civil/djurvard/kollektivavtal-djurvard/
-- https://www.seko.se/4ac7a2/siteassets/kollektivavtal/branschavtal/djurvard/djursjukvard_arbetare_2025-2027.pdf
+- https://www.sjf.se/vara-kollektivavtal/dagspressavtal
+- https://www.sjf.se/system/files/2025-06/Dagspress%20kollektivavtal%202025-2027.pdf
+
+## Detaljhandelsavtalet (Installatörsföretagen)
+
+- https://www.in.se/globalassets/dokument/arbetsgivarguiden/publik/kollektivavtal/detaljhandelsavtalet-2025-2027-in.pdf
+- https://www.in.se/arbetsgivare/kollektivavtal/
 
 ## Djurparksavtalet
 
 - https://www.grona.org/nyhetscenter/pressrum/2025/nytt-kollektivavtal-for-landets-djurparker/
 - https://www.hrf.net/kollektivavtal/
 - https://www.hrf.net/app/uploads/2025/12/Kollektivavtal_Djurparker.pdf
+
+## Djursjukvård
+
+- https://www.seko.se/branscher/civil/djurvard/kollektivavtal-djurvard/
+- https://www.seko.se/4ac7a2/siteassets/kollektivavtal/branschavtal/djurvard/djursjukvard_arbetare_2025-2027.pdf
 
 ## Elektronikteknikeravtalet
 
@@ -93,6 +119,16 @@
 ## Energiavtalet
 
 - https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/energiforetagen/
+
+## Entreprenadmaskinavtalet
+
+- https://www.me.se/foretagarservice/kollektivavtal/kollektivavtal-for-ME-medlemmar/entreprenadmaskinavtalet/
+- https://www.me.se/globalassets/medlemsstod-media/arbetsgivarstod/kollektivavtal/entreprenadmaskinavtalet/entreprenadmaskinavtalet-2025-2027-september-2025.pdf
+
+## Etermedieavtalet
+
+- https://www.sjf.se/vara-kollektivavtal/etermedieavtal
+- https://www.sjf.se/system/files/2025-07/Etermedier%20kollektivavtal%202025-2027.pdf
 
 ## Explosivämnesavtalet
 
@@ -124,11 +160,10 @@
 - https://www.ifmetall.se/om-oss/vara-kollektivavtal/
 - https://www.ifmetall.se/globalassets/avdelningar/forbundskontoret/resurser/dokument/kollektivavtal/kollektivavtal-2025-/glasavtalet-2025-2027.pdf
 
-## Gröna Riksavtalet
+## Glasmästeriavtalet
 
-- https://www.hrf.net/kollektivavtal/
-- https://www.hrf.net/app/uploads/2025/05/Grona-riksen-2025-2027-1.pdf
-- https://www.hrf.net/app/uploads/2025/05/Turistsupplementet-2025-2027.pdf
+- https://www.byggnads.se/stod-pa-jobbet/byggnads-kollektivavtal/ditt-kollektivavtal/
+- https://www.byggnads.se/4a728f/siteassets/kollektivavtal/glasmasteriavtalet-2025-2027.pdf
 
 ## Gruventreprenadavtal
 
@@ -139,6 +174,12 @@
 
 - https://www.ifmetall.se/om-oss/vara-kollektivavtal/
 - https://www.ifmetall.se/globalassets/avdelningar/forbundskontoret/resurser/dokument/kollektivavtal/kollektivavtal-2025-/gruvindustrin-2025-2027.pdf
+
+## Gröna Riksavtalet
+
+- https://www.hrf.net/kollektivavtal/
+- https://www.hrf.net/app/uploads/2025/05/Grona-riksen-2025-2027-1.pdf
+- https://www.hrf.net/app/uploads/2025/05/Turistsupplementet-2025-2027.pdf
 
 ## I-avtalet
 
@@ -155,7 +196,17 @@
 - https://www.sef.se/stod-pa-jobbet/kollektivavtal/elektrikernas-kollektivavtal/
 - https://www.sef.se/49ebe6/siteassets/stod-pa-jobbet/kollektivavtal/kollektivavtal-2025-2027/installationsavtalet-2025-2027-digitalt.pdf
 
+## Installatörsföretagen Tjänstemannaavtalet
+
+- https://www.in.se/globalassets/dokument/arbetsgivarguiden/publik/kollektivavtal/tjanstemannaavtalet-2025-2027.pdf
+- https://www.in.se/arbetsgivare/kollektivavtal/
+
 ## Järnvägsinfrastrukturavtalet
+
+- https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/almega-tagforetagen-jarnvagsinfrastruktur/
+- https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/almega-tagforetagen-jarnvagsinfrastruktur/?&block=22177&mode=Index&resourcename=3.%20Kollektivavtal%20-%20Avtal%202025%20-%20T%C3%A5gf%C3%B6retagen%20J%C3%A4rnv%C3%A4gsinfrastruktur%20-%2020250501%20-%2020270430.pdf
+
+## Järnvägsinfrastrukturavtalet
 
 - https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/almega-tagforetagen-jarnvagsinfrastruktur/
 - https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/almega-tagforetagen-jarnvagsinfrastruktur/?&block=22177&mode=Index&resourcename=3.%20Kollektivavtal%20-%20Avtal%202025%20-%20T%C3%A5gf%C3%B6retagen%20J%C3%A4rnv%C3%A4gsinfrastruktur%20-%2020250501%20-%2020270430.pdf
@@ -175,6 +226,11 @@
 - https://www.sef.se/stod-pa-jobbet/kollektivavtal/elektrikernas-kollektivavtal/
 - https://www.sef.se/49eb0d/siteassets/stod-pa-jobbet/kollektivavtal/kollektivavtal-2025-2027/kraftverksavtalet_2025-2027_webb.pdf
 
+## Lageravtalet (Installatörsföretagen)
+
+- https://www.in.se/globalassets/dokument/arbetsgivarguiden/publik/kollektivavtal/lageravtalet-2025-2027.pdf
+- https://www.in.se/arbetsgivare/kollektivavtal/
+
 ## Larm- och säkerhetsteknikavtalet
 
 - https://www.sef.se/stod-pa-jobbet/kollektivavtal/elektrikernas-kollektivavtal/
@@ -185,6 +241,17 @@
 
 - https://www.sef.se/stod-pa-jobbet/kollektivavtal/elektrikernas-kollektivavtal/
 - https://www.sef.se/4acc18/siteassets/stod-pa-jobbet/kollektivavtal/kollektivavtal-2023-2025/manpoweravtalet-2025-2027-webb.pdf
+
+## Maskinentreprenörerna Tjänstemannaavtalet
+
+- https://www.me.se/foretagarservice/kollektivavtal/kollektivavtal-for-ME-medlemmar/tjanstemannaavtalet/
+- https://www.me.se/globalassets/medlemsstod-media/arbetsgivarstod/kollektivavtal/tjanstemannaavtalet/tjanstemannaavtalet-2025-2027.pdf
+
+## Maskinföraravtalet
+
+- https://www.seko.se/branscher/vag-och-ban/kollektivavtal/
+- https://www.me.se/foretagarservice/kollektivavtal/kollektivavtal-for-ME-medlemmar/maskinforaravtalet/
+- https://www.me.se/globalassets/medlemsstod-media/arbetsgivarstod/kollektivavtal/maskinforaravtalet/maskinforaravtalet-2025-2027-260417.pdf
 
 ## Massa- och Pappersavtalet
 
@@ -198,6 +265,11 @@
 
 - https://www.ifmetall.se/om-oss/vara-kollektivavtal/
 - https://www.ifmetall.se/globalassets/avdelningar/forbundskontoret/resurser/dokument/kollektivavtal/kollektivavtal-2025-/motorbranschavtalet-20252027.pdf
+
+## Måleriavtalet
+
+- https://www.byggnads.se/stod-pa-jobbet/byggnads-kollektivavtal/avtalsrorelsen2025/ditt-avtal/kollektivavtal-for-maleriyrket/
+- https://www.byggnads.se/4a4f6e/siteassets/kollektivavtal/kollektivavtal-for-maleriyrket-2025-2027.pdf
 
 ## Nöjesavtalet
 
@@ -213,6 +285,11 @@
 
 - https://www.hrf.net/kollektivavtal/
 - https://www.hrf.net/app/uploads/2025/06/Ordningsvaktsavtalet-2025-2027.pdf
+
+## Plåt- och ventilationsavtalet
+
+- https://www.in.se/globalassets/dokument/arbetsgivarguiden/publik/kollektivavtal/plat-och-ventilationsavtalet-2025-2027.pdf
+- https://www.in.se/arbetsgivare/kollektivavtal/
 
 ## Public service-avtalet
 
@@ -265,15 +342,15 @@
 - https://www.seko.se/branscher/trafik/kollektivavtal/
 - https://www.seko.se/4a5a10/siteassets/kollektivavtal/branschavtal/spartrafik/spartrafikavtalet_2025-2027.pdf
 
-## Stål- och metallindustrin (Röda avtalet)
-
-- https://www.ifmetall.se/om-oss/vara-kollektivavtal/
-- https://www.ifmetall.se/globalassets/avdelningar/forbundskontoret/resurser/dokument/kollektivavtal/kollektivavtal-2025-/stal--och-metallindustrin-roda-avtalet.pdf
-
 ## Storsjöavtalet
 
 - https://www.seko.se/branscher/sjofolk/kollektivavtal/
 - https://www.seko.se/49dc71/siteassets/kollektivavtal/branschavtal/sjo/storsjoavtalet_2025-2027_webb.pdf
+
+## Stål- och metallindustrin (Röda avtalet)
+
+- https://www.ifmetall.se/om-oss/vara-kollektivavtal/
+- https://www.ifmetall.se/globalassets/avdelningar/forbundskontoret/resurser/dokument/kollektivavtal/kollektivavtal-2025-/stal--och-metallindustrin-roda-avtalet.pdf
 
 ## Svemek
 
@@ -291,20 +368,21 @@
 - https://www.seko.se/branscher/civil/djurvard/kollektivavtal-djurvard/
 - https://www.seko.se/4ad5f0/siteassets/kollektivavtal/branschavtal/djurvard/kollektivavtal-sallskapsdjur-arbetare-2025-2027_webb.pdf
 
-## TKE-avtalet
+## TechSverige Telekom
 
-- https://www.sef.se/stod-pa-jobbet/kollektivavtal/elektrikernas-kollektivavtal/
-- https://www.sef.se/4a887e/siteassets/stod-pa-jobbet/kollektivavtal/kollektivavtal-2025-2027/tke-avtalet-2025-2027_webb.pdf
+- https://www.seko.se/branscher/tele/kollektivavtal/
+- https://www.seko.se/49e753/siteassets/kollektivavtal/branschavtal/telekom/telekomavtalet-med-omslag-2025-2027.pdf
+- https://www.seko.se/49e753/siteassets/kollektivavtal/branschavtal/telekom/loneavtal-telekom-seko-2025-2027.pdf
 
 ## Teknikavtalet
 
 - https://www.ifmetall.se/om-oss/vara-kollektivavtal/
 - https://www.ifmetall.se/globalassets/avdelningar/forbundskontoret/resurser/dokument/kollektivavtal/kollektivavtal-2025-/teknikavtalet-2025-2027.pdf
 
-## Järnvägsinfrastrukturavtalet
+## Teknikavtalet (Unionen, Sveriges Ingenjörer, Ledarna)
 
-- https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/almega-tagforetagen-jarnvagsinfrastruktur/
-- https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/almega-tagforetagen-jarnvagsinfrastruktur/?&block=22177&mode=Index&resourcename=3.%20Kollektivavtal%20-%20Avtal%202025%20-%20T%C3%A5gf%C3%B6retagen%20J%C3%A4rnv%C3%A4gsinfrastruktur%20-%2020250501%20-%2020270430.pdf
+- https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/teknikarbetsgivarna-tag-teknikforetagen/
+- https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/teknikarbetsgivarna-tag-teknikforetagen/?&block=22155&mode=Index&resourcename=1.%20Teknikavtalet%20Unionen%20Sveriges%20Ingenj%C3%B6rer%20Ledarna%202025-2027.pdf
 
 ## Teknikinstallationsavtalet VVS & Kyl
 
@@ -313,47 +391,46 @@
 - https://www.in.se/arbetsgivare/kollektivavtal/
 - https://www.byggnads.se/stod-pa-jobbet/byggnads-kollektivavtal/avtalsrorelsen2025/ditt-avtal/teknikinstallationsavtalet-vvs--kyl/
 
-## Entreprenadmaskinavtalet
-
-- https://www.me.se/foretagarservice/kollektivavtal/kollektivavtal-for-ME-medlemmar/entreprenadmaskinavtalet/
-- https://www.me.se/globalassets/medlemsstod-media/arbetsgivarstod/kollektivavtal/entreprenadmaskinavtalet/entreprenadmaskinavtalet-2025-2027-september-2025.pdf
-
-## Maskinföraravtalet
-
-- https://www.seko.se/branscher/vag-och-ban/kollektivavtal/
-- https://www.me.se/foretagarservice/kollektivavtal/kollektivavtal-for-ME-medlemmar/maskinforaravtalet/
-- https://www.me.se/globalassets/medlemsstod-media/arbetsgivarstod/kollektivavtal/maskinforaravtalet/maskinforaravtalet-2025-2027-260417.pdf
-
-## Torvavtalet
-
-- https://www.me.se/foretagarservice/kollektivavtal/kollektivavtal-for-ME-medlemmar/torvavtalet/
-- https://www.me.se/globalassets/medlemsstod-media/arbetsgivarstod/kollektivavtal/torvavtalet/torvavtalet-forhandlingsprotokoll-juli-2025.pdf
-
-## Maskinentreprenörerna Tjänstemannaavtalet
-
-- https://www.me.se/foretagarservice/kollektivavtal/kollektivavtal-for-ME-medlemmar/tjanstemannaavtalet/
-- https://www.me.se/globalassets/medlemsstod-media/arbetsgivarstod/kollektivavtal/tjanstemannaavtalet/tjanstemannaavtalet-2025-2027.pdf
 
 ## Tekoavtalet
 
 - https://www.ifmetall.se/om-oss/vara-kollektivavtal/
 - https://www.ifmetall.se/globalassets/avdelningar/forbundskontoret/resurser/dokument/kollektivavtal/kollektivavtal-2025-/teko-avtalet-2025-2027.pdf
 
-## TechSverige Telekom
-
-- https://www.seko.se/branscher/tele/kollektivavtal/
-- https://www.seko.se/49e753/siteassets/kollektivavtal/branschavtal/telekom/telekomavtalet-med-omslag-2025-2027.pdf
-- https://www.seko.se/49e753/siteassets/kollektivavtal/branschavtal/telekom/loneavtal-telekom-seko-2025-2027.pdf
-
 ## Telekomavtalet (Installatörsföretagen)
 
 - https://www.in.se/globalassets/dokument/arbetsgivarguiden/publik/kollektivavtal/telekomavtalet-2025-2027.pdf
 - https://www.in.se/arbetsgivare/kollektivavtal/
 
+## Tidskriftsavtalet
+
+- https://www.sjf.se/vara-kollektivavtal/tidskriftsavtal
+- https://www.sjf.se/system/files/2025-07/Tidskrifter%20kollektivavtal%202025-2027.pdf
+
+## Tjänstemannaavtalet Byggföretagen
+
+- https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/byggforetagen/
+- https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/byggforetagen/?&block=22154&mode=Index&resourcename=1.%20Tj%C3%A4nstemannaavtalet%20-%20Byggf%C3%B6retagen%202025%20-%202027.pdf
+
+## TKE-avtalet
+
+- https://www.sef.se/stod-pa-jobbet/kollektivavtal/elektrikernas-kollektivavtal/
+- https://www.sef.se/4a887e/siteassets/stod-pa-jobbet/kollektivavtal/kollektivavtal-2025-2027/tke-avtalet-2025-2027_webb.pdf
+
+## Torvavtalet
+
+- https://www.me.se/foretagarservice/kollektivavtal/kollektivavtal-for-ME-medlemmar/torvavtalet/
+- https://www.me.se/globalassets/medlemsstod-media/arbetsgivarstod/kollektivavtal/torvavtalet/torvavtalet-forhandlingsprotokoll-juli-2025.pdf
+
 ## Tvättavtalet
 
 - https://www.ifmetall.se/om-oss/vara-kollektivavtal/
 - https://www.ifmetall.se/globalassets/avdelningar/forbundskontoret/resurser/dokument/kollektivavtal/kollektivavtal-2025-/tvattavtalet-2025-2027.pdf
+
+## Visita Hängavtal
+
+- https://www.hrf.net/kollektivavtal/
+- https://www.hrf.net/app/uploads/2026/03/Visita-Grona-riks-Hangavtal-2025-2027.pdf
 
 ## Väg- och Banavtalet
 
@@ -361,45 +438,4 @@
 - https://www.seko.se/4a5cef/siteassets/kollektivavtal/branschavtal/vag-och-ban/vag-och-banavtalet-2025-2027-utgava-1.pdf
 - https://www.seko.se/4ab4c8/siteassets/kollektivavtal/branschavtal/vag-och-ban/vag--och-banavtalet-2025-2027_fickavtal.pdf
 - https://www.seko.se/49e808/siteassets/kollektivavtal/branschavtal/vag-och-ban/sarskilda-regler-for-feriearbete-2025.pdf
-
-## Återvinningsavtalet
-
-- https://www.ifmetall.se/om-oss/vara-kollektivavtal/
-- https://www.ifmetall.se/globalassets/avdelningar/forbundskontoret/resurser/dokument/kollektivavtal/kollektivavtal-2025-/atervinningsavtalet-2025-2027.pdf
-
-## Byggavtalet
-
-- https://www.byggnads.se/stod-pa-jobbet/byggnads-kollektivavtal/ditt-kollektivavtal/
-- https://www.byggnads.se/49ec78/siteassets/kollektivavtal/byggavtalet-2025-digital-utgava-1.pdf
-- https://www.byggnads.se/48ce12/siteassets/kollektivavtal/the-construction-agreement-2025.pdf
-
-## Visita Hängavtal
-
-- https://www.hrf.net/kollektivavtal/
-- https://www.hrf.net/app/uploads/2026/03/Visita-Grona-riks-Hangavtal-2025-2027.pdf
-
-## Almega Spel (HRF)
-
-- https://www.hrf.net/kollektivavtal/
-- https://www.hrf.net/app/uploads/2025/12/Kollektivavtal-Spel-HRF-2025-2026-art.nr-6525-2510.pdf
-
-## Detaljhandelsavtalet (Installatörsföretagen)
-
-- https://www.in.se/globalassets/dokument/arbetsgivarguiden/publik/kollektivavtal/detaljhandelsavtalet-2025-2027-in.pdf
-- https://www.in.se/arbetsgivare/kollektivavtal/
-
-## Lageravtalet (Installatörsföretagen)
-
-- https://www.in.se/globalassets/dokument/arbetsgivarguiden/publik/kollektivavtal/lageravtalet-2025-2027.pdf
-- https://www.in.se/arbetsgivare/kollektivavtal/
-
-## Installatörsföretagen Tjänstemannaavtalet
-
-- https://www.in.se/globalassets/dokument/arbetsgivarguiden/publik/kollektivavtal/tjanstemannaavtalet-2025-2027.pdf
-- https://www.in.se/arbetsgivare/kollektivavtal/
-
-## Plåt- och ventilationsavtalet
-
-- https://www.in.se/globalassets/dokument/arbetsgivarguiden/publik/kollektivavtal/plat-och-ventilationsavtalet-2025-2027.pdf
-- https://www.in.se/arbetsgivare/kollektivavtal/
 
