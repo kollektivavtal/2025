@@ -367,6 +367,11 @@
 - https://www.ifmetall.se/om-oss/vara-kollektivavtal/
 - https://www.ifmetall.se/globalassets/avdelningar/forbundskontoret/resurser/dokument/kollektivavtal/kollektivavtal-2025-/atervinningsavtalet-2025-2027.pdf
 
+## Byggavtalet
+
+- https://www.byggnads.se/stod-pa-jobbet/byggnads-kollektivavtal/ditt-kollektivavtal/
+- https://www.byggnads.se/49ec78/siteassets/kollektivavtal/byggavtalet-2025-digital-utgava-1.pdf
+
 ## Visita Hängavtal
 
 - https://www.hrf.net/kollektivavtal/
