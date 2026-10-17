@@ -150,6 +150,23 @@
 - https://www.fastighets.se/kollektivavtal/vara-kollektivavtal/almega-fastighetsarbetsgivare/
 - https://www.fastighets.se/49a08c/contentassets/3e30983e855d4780adef9611b4d62256/kollektivavtal-almega-fastigheter-2025-2027-fastighetsanstalldas-forbund-artnr-6554-2504.pdf
 
+## Fastigo F-avtalet
+
+- https://www.fastighets.se/kollektivavtal/vara-kollektivavtal/fastigo/
+- https://www.fastighets.se/49b36f/contentassets/63ff67138286461ebbe8e9921b86aaf5/f-avtal-2025.pdf
+
+## Fastigo I-avtalet
+
+- https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/fastigo/
+- https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/fastigo/?&block=22160&mode=Index&resourcename=3.%20Kollektivavtal%20Allm%C3%A4nna%20anst%C3%A4llningsvillkor%20-%20Avtal%202025%20-%20Fastigo%20I%20-%2020250401.pdf
+- https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/fastigo/?&block=22160&mode=Index&resourcename=4.%20L%C3%B6neavtal%20-%20Avtal%202025%20-%20Fastigo%20I%20-%2020250401.pdf
+
+## Fastigo K-avtalet
+
+- https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/fastigo/
+- https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/fastigo/?&block=22160&mode=Index&resourcename=3.%20Kollektivavtal%20Allm%C3%A4nna%20anst%C3%A4llningsvillkor%20-%20Avtal%202025%20-%20Fastigo%20K%20-%2020250401.pdf
+- https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/fastigo/?&block=22160&mode=Index&resourcename=4.%20L%C3%B6neavtal%20-%20Avtal%202025%20-%20Fastigo%20K%20-%2020250401.pdf
+
 ## Folkets Hus och Parker
 
 - https://www.hrf.net/kollektivavtal/
