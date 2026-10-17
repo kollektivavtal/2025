@@ -317,6 +317,11 @@
 - https://www.me.se/foretagarservice/kollektivavtal/kollektivavtal-for-ME-medlemmar/maskinforaravtalet/
 - https://www.me.se/globalassets/medlemsstod-media/arbetsgivarstod/kollektivavtal/maskinforaravtalet/maskinforaravtalet-2025-2027-260417.pdf
 
+## Torvavtalet
+
+- https://www.me.se/foretagarservice/kollektivavtal/kollektivavtal-for-ME-medlemmar/torvavtalet/
+- https://www.me.se/globalassets/medlemsstod-media/arbetsgivarstod/kollektivavtal/torvavtalet/torvavtalet-forhandlingsprotokoll-juli-2025.pdf
+
 ## Tekoavtalet
 
 - https://www.ifmetall.se/om-oss/vara-kollektivavtal/
