@@ -144,6 +144,20 @@
 - https://www.hrf.net/kollektivavtal/
 - https://www.hrf.net/app/uploads/2025/09/Kollektivavtal-Bowling-HRF-2025-2027-artnr-6585-2506.pdf
 
+## Bussbranschavtalet
+
+### Förbund
+
+- [Kommunal](https://www.kommunal.se/)
+- [BARO](https://fackforbund.github.io/baro/)
+  Tecknar inte avtalet men har många medlemmar inom avtalsområdet
+
+### Källor
+
+- https://www.kommunal.se/nyhet/avtal-klart-2025-sveriges-bussforetag
+- https://baro.nu/wp-content/uploads/2026/02/Bussbranschavtalet-2025-2027-5.pdf
+- https://baro.nu/kollektivavtal/
+
 ## Buteljglasindustrin
 
 ### Förbund
