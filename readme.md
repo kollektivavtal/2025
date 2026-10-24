@@ -148,7 +148,7 @@
 
 ### Förbund
 
-- [Kommunal](https://www.kommunal.se/)
+- [Kommunal](https://fackforbund.github.io/kommunal/)
 - [BARO](https://fackforbund.github.io/baro/)
   Tecknar inte avtalet men har många medlemmar inom avtalsområdet
 
