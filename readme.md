@@ -514,6 +514,19 @@
 - https://www.hrf.net/app/uploads/2025/05/Grona-riksen-2025-2027-1.pdf
 - https://www.hrf.net/app/uploads/2025/05/Turistsupplementet-2025-2027.pdf
 
+## Högskoleavtalet
+
+### Förbund
+
+- [Fackförbundet ST](https://fackforbund.github.io/fackforbundet-st/)
+- [Ledarna](https://fackforbund.github.io/ledarna/)
+- [Sveriges Lärare](https://fackforbund.github.io/sveriges-larare/)
+
+### Källor
+
+- https://www.st.org/avtal-och-villkor/sts-centrala-avtal
+- https://www.st.org/api/files/2025-09/bransch-och-loneavtal-hogskola-2025-2027.pdf
+
 ## I-avtalet
 
 ### Förbund
