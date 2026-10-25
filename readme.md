@@ -752,6 +752,8 @@
 - [Journalistförbundet](https://fackforbund.github.io/journalistforbundet/)
 - [Unionen](https://fackforbund.github.io/unionen/)
 - [Sveriges Ingenjörer](https://fackforbund.github.io/sveriges-ingenjorer/)
+- [Akavia](https://fackforbund.github.io/akavia/)
+- [DIK](https://fackforbund.github.io/dik/)
 
 ### Källor
 
@@ -759,6 +761,8 @@
 - https://www.av.se/globalassets/filer/arbetsmiljoarbete-och-inspektioner/avtal-utstationering/almega-mediaforetagen-public-service-kollektivavtal-2025-2027.pdf
 - https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/public_serviceforetag_medieforetagen/
 - https://www.sverigesingenjorer.se/kollektivavtal/avtalsomrade/public_serviceforetag_medieforetagen/?&block=22172&mode=Index&resourcename=1.%20Kollektivavtal%20-%20Avtal%202025%20-%20Medief%C3%B6retagen%20Public%20service%20-%2020250401.pdf
+- https://dik.se/om-oss/lagar-kollektivavtal/privat-sektor
+- https://dik.se/media/ygqlg1za/kollektivavtal-public-service-2025-2027-mediefo-retagen-akademikerfo-rbunden.pdf
 
 ## RALS
 
