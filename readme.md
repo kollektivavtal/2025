@@ -1,5 +1,17 @@
 # Kollektivavtalsarkivet 2025
 
+## Innovationsavtalet
+
+### Förbund
+
+- [DIK](https://fackforbund.github.io/dik/)
+
+### Källor
+
+- https://dik.se/om-oss/lagar-kollektivavtal/privat-sektor
+- https://dik.se/media/e0bisra2/innovationsfo_retagen_allma_nna_ansta_llningsvillkor_2023-2025.pdf
+- https://dik.se/media/ikkfsgtw/innovationsfo_retagen_lo_neavtal_2023-2025.pdf
+
 ## Almega Apoteksföretagen
 
 ### Förbund
@@ -768,6 +780,7 @@
 
 ### Förbund
 
+- [Fackförbundet ST](https://fackforbund.github.io/fackforbundet-st/)
 - [Seko](https://fackforbund.github.io/seko/)
 
 ### Källor
@@ -776,6 +789,8 @@
 - https://www.arbetsgivarverket.se/globalassets/arbetsgivarverket/aktuellt/nyheter/2025/avtalsnyhet/rals-arbetsgivarverket-seko-2025-2027-och-ovriga-bilagor.pdf
 - https://www.arbetsgivarverket.se/avtal-och-skrifter/avtal/ramavtal-mellan-arbetsgivarverket-och-ofrspo
 - https://www.arbetsgivarverket.se/globalassets/arbetsgivarverket/aktuellt/nyheter/2025/avtalsnyhet/rals-arbetsgivarverket-ofr-s-p-o-2025-2027-och-ovriga-bilagor.pdf
+- https://www.st.org/api/files/2025-10/avtal-rals-2025-2027.pdf
+- https://www.st.org/avtal-och-villkor/kollektivavtal-inom-staten/rals
 
 ## Restaurang- och caféanställda
 
@@ -1000,6 +1015,39 @@
 
 - https://www.ifmetall.se/om-oss/vara-kollektivavtal/
 - https://www.ifmetall.se/globalassets/avdelningar/forbundskontoret/resurser/dokument/kollektivavtal/kollektivavtal-2025-/svemek-2025-2027.pdf
+
+## Handelns tjänstemannaavtal
+
+### Förbund
+
+- [DIK](https://fackforbund.github.io/dik/)
+
+### Källor
+
+- https://dik.se/om-oss/lagar-kollektivavtal/privat-sektor
+- https://dik.se/media/yfbd1ejl/svensk_handel__tja_nstemannaavtalet_2023-2025.pdf
+
+## Svensk Scenkonst Riksavtalet Institutionsteater
+
+### Förbund
+
+- [DIK](https://fackforbund.github.io/dik/)
+
+### Källor
+
+- https://dik.se/om-oss/lagar-kollektivavtal/privat-sektor
+- https://dik.se/media/p4tblwlt/svensk-scenkonst-riksavtal-institutionsteater-2025-2027-v251104.pdf
+
+## Svensk scenkonst Tjänstemannaavtalet
+
+### Förbund
+
+- [DIK](https://fackforbund.github.io/dik/)
+
+### Källor
+
+- https://dik.se/om-oss/lagar-kollektivavtal/privat-sektor
+- https://dik.se/media/xnblmreu/svensk_scenkonst__tja_nstemannaavtal_2023-2025.pdf
 
 ## Svenska Kyrkan
 
